@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: org/apache/netbeans/core/ui/markdownviewer/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/apache/netbeans/core/ui/markdownviewer/Bundle.properties
+
